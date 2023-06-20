@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainRoom.unity
+    guid: b8237830e7e8ff140b6da2753974c597
+  - enabled: 1
+    path: Assets/Scenes/Nature_assets.unity
+    guid: d38f3b6ddd7390f44b717e1122bb426a
+  - enabled: 1
+    path: Assets/Scenes/Nature_props_showcase.unity
+    guid: 6bbe50710129d0149ab951136c5115d0
+  - enabled: 1
+    path: Assets/easy UI/easy UI emerald - default.unity
+    guid: b1c56176553646c429757732476a41c3
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/HomeScene.unity
+    guid: afbde366e660d4272b8d45e2d7d96f50
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/Demo.unity
+    guid: 37ea03003e9e57a439b2fb4fa25886d3
+  - enabled: 1
+    path: "Assets/Scenes/StateRooms/Baden-W\xFCrttemberg.unity"
+    guid: 6591d3ccbc2cc4a8799831f27f32d281
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Bayern.unity
+    guid: 75f96a2ed754a4cecbd8ea4a0e3c5e79
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Berlin.unity
+    guid: a127b21093ef78f47be6bd89863ce521
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Brandenburg.unity
+    guid: 2f30910ab4aa2416ca2287ac1fd9370f
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Bremen.unity
+    guid: 6b1acf384a89045f0ab0ad8f4e3497b8
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Hamburg.unity
+    guid: f9ef7b6e90f4844d28254e16d4db3db5
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Hessen.unity
+    guid: d930dbe6fa52c4f818ad958caf103148
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Mecklenburg-Vorpromen.unity
+    guid: 1778e525f8b9b4b88a9ea3e795910709
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Niedersachen.unity
+    guid: 5748189c519444d43a77891ec7e9b73f
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Nordheim-Westfalen.unity
+    guid: dd62622d003d047aa9ff7f174314896c
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Rheinland-Pfalz.unity
+    guid: 3e0ba95c8366f45769a1c5fb8b1ef283
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Saarland.unity
+    guid: 4f69c1e91373946e2ba82f53c0958651
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Sachen.unity
+    guid: feaee7d240fcb4b109c05294f43b82d7
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Sachsen-Anhalt.unity
+    guid: a3cca006d06204d46baf3df7fab3e644
+  - enabled: 1
+    path: Assets/Scenes/StateRooms/Schleswig-Holstein.unity
+    guid: cc9653247ce8240b98bf6692f477a7f9
+  - enabled: 1
+    path: "Assets/Scenes/StateRooms/Th\xFCringen.unity"
+    guid: 8b2cb4028a1544a4bb17e96689cddfa6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Photon/PhotonChat/Demos/DemoChat/DemoChat-Scene.unity
+    guid: ec07267f6a28fb044ac89845274e79af
+  - enabled: 1
+    path: Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/DemoLoadBalancing-Scene.unity
+    guid: a73b0cac1a73cc346aaeb5f8dd0b53f1
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoHub/DemoHub-Scene.unity
+    guid: 7dfd47dc8b9484dd79d8636d8603a9e5
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Procedural-Scene.unity
+    guid: e1fad393017993c4893877b645062417
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/SlotCar-Scene.unity
+    guid: 711b38c07f2cf904f81b3422c67f1825
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/PunCockpit-Scene.unity
+    guid: 9d6d60c803e244e51ba945a84b88757d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/AudioMixing/AudioMixingScene.unity
+    guid: 8cb5873d5ce2441c58f975843144f122
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/AudioSpectrum/AudioSpectrumScene.unity
+    guid: e7f9d4a77dbeb41539e70c7a152c663b
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/ChannelMediaRelay/ChannelMediaRelayScene.unity
+    guid: 6fe4259f41e8b4ebc9988a4776c0b73f
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/ContentInspect/ContentInspectScene.unity
+    guid: d3418a868ac044da7bbfcfd80cda8e9f
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/CustomCaptureAudio/CustomCaptureAudioScene.unity
+    guid: b9bb49b57ed774507b9e5d93624c57f6
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/CustomCaptureVideo/CustomCaptureVideoScene.unity
+    guid: fe8f82a41e3634955919d48ad07fbe8e
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/CustomRenderAudio/CustomRenderAudioScene.unity
+    guid: 41608019a4839450bbb216fbcfcf92e3
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/DeviceManager/DeviceManagerScene.unity
+    guid: b2ad0a9d64e7648aab82923c04bdc9ac
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/DualCamera/DualCameraScene.unity
+    guid: ac201fe1bea7741e99a36ffc2f2685f6
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/JoinChannelVideoToken/JoinChannelVideoTokenScene.unity
+    guid: 84f4d732120eb41a4934ec95f53c58d7
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/JoinChannelWithUserAccount/JoinChannelWithUserAccountScene.unity
+    guid: 502801de36f36427db552a920ec9ebe1
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/MediaPlayer/MediaPlayerScene.unity
+    guid: 992f3a816b8f149ef914d0779f89ac3a
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/MediaPlayerWithCustomDataProvider/MediaPlayerWithCustomDataProviderScene.unity
+    guid: c8cd21074f29f48d7b241a83086fb808
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/MediaRecorder/MediaRecorderScene.unity
+    guid: 0af7980e500ce43a8b758b586053fd37
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/Metadata/MetadataScene.unity
+    guid: becddf48094e546e7aa03d144e6439fd
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/ProcessAudioRawData/ProcessAudioRawDataScene.unity
+    guid: 5bad6ee5650d5460aad18db072946cc3
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/ProcessVideoRawData/ProcessVideoRawDataScene.unity
+    guid: 95956702ec8f74758ac3a0ad4e4c457c
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/PushEncodedVideoImage/PushEncodedVideoImageScene.unity
+    guid: 7a3330e99946a4ef6b4dd2ba142aeb93
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/ScreenShare/ScreenShareScene.unity
+    guid: 808bde60265534ed88253e319faab94a
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/ScreenShareWhileVideoCall/ScreenShareWhileVideoCallScene.unity
+    guid: fe14a5ceabe1e471c9bdef42d8069bc8
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/SetBeautyEffectOptions/SetBeautyEffectOptionsScene.unity
+    guid: 36fd8120d7d7e48abaddc96da3a6cbff
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/SetEncryption/SetEncryptionScene.unity
+    guid: ad19d2d806ae74e639ef435f7861382a
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/SetVideoEncodeConfiguration/SetVideoEncodeConfigurationScene.unity
+    guid: 5c01eb765ee294766a2926c4d0861fdf
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/SpatialAudioWithMediaPlayer/SpatialAudioWithMediaPlayerScene.unity
+    guid: 86cef631ac3c244318f423dd6eaf47d3
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/StartDirectCdnStreaming/StartDirectCdnStreamingScene.unity
+    guid: 3fd0564918e57416dbfd67a6db145893
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/StartLocalVideoTranscoder/StartLocalVideoTranscoderScene.unity
+    guid: 48d77a7c2db3043fab75e6063f691cde
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/StartRhythmPlayer/StartRhythmPlayerScene.unity
+    guid: 346412a7123af442c980f394327ebb7f
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/StartRtmpStreamWithTranscoding/StartRtmpStreamWithTranscodingScene.unity
+    guid: c5fb0859bf77346a5ab0a0af50a14231
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/StreamMessage/StreamMessageScene.unity
+    guid: e5426a5a947d64c998eccdf724c9973e
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/TakeSnapshot/TakeSnapshotScene.unity
+    guid: 49d61b9ad1b4d41c0be0f71894bca71e
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/VirtualBackground/VirtualBackgroundScene.unity
+    guid: 5b10ad6c190314ef581e0a6b00b6761e
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Advanced/VoiceChanger/VoiceChangerScene.unity
+    guid: 5e00dd36388ca4686be1bdf82e52b79d
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Basic/JoinChannelAudio/BasicAudioCallScene.unity
+    guid: 1af6c3e08db844534ad959cdf0127444
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Basic/JoinChannelVideo/BasicVideoCallScene.unity
+    guid: 3f201b178f99f4b41a325391c1b284b8
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scenes/DemoAsteroids-GameScene.unity
+    guid: 98efc37d6307844488eb3e4247dde7e9
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scenes/DemoAsteroids-LobbyScene.unity
+    guid: c8a9d1312a49dc8488a9b32d83d659c7
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Launcher.unity
+    guid: bff77b01b50254edbb6edeeaba5ae8b3
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 1.unity
+    guid: 9b8561c6e396849a5ba48c3eb9524049
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 2.unity
+    guid: 764428c63577f4580af4ce54ca9f4b1b
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 3.unity
+    guid: e07afcca5bf1a41f5bd28f498656b7b8
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 4.unity
+    guid: e7a7f9734636d415ca84ef3aaf7680f6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
