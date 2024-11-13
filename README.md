@@ -65,14 +65,17 @@ Um das Meet Me Game zu installieren und auszuführen, sind die folgenden Schritt
 
 1. **Registrierung und Anmeldung**  
    - Bei erstmaliger Nutzung können Spieler ein Konto erstellen. Bestehende Nutzer loggen sich direkt ein.
+![Meet Me Game Architekturdiagramm](./images/login.png)
 
 2. **Steuerung**  
    - Der Avatar wird mit den Pfeiltasten oder WASD bewegt.
    - In den Konferenzräumen kann der Spieler durch Annäherung an Türen und andere Spieler interagieren.
+![Meet Me Game Architekturdiagramm](./images/state.png)
 
 3. **Interaktion mit anderen Teilnehmern**  
    - Beim Näherkommen an andere Avatare ist ein Chat oder Videocall möglich.
    - In Breakout Rooms stehen Audio- und Video-Chat-Optionen zur Verfügung.
+![Meet Me Game Architekturdiagramm](./images/chat.png)
 
 ---
 
