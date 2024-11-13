@@ -119,6 +119,10 @@ In den Breakout Rooms stehen Video- und Audio-Chat-Optionen zur Verfügung:
    - 
 ## Verwendete Technologien
 
+Das folgende Diagramm zeigt die Architektur und den Ablauf des "Meet Me Game"-Projekts. Es veranschaulicht, wie die verschiedenen Komponenten und Technologien zusammenarbeiten, um eine interaktive Multiplayer-Erfahrung zu ermöglichen.
+
+![Meet Me Game Architekturdiagramm](./images/flowchart.png)
+
 - **Photon Unity Networking (PUN)**  
   Photon PUN ermöglicht die Multiplayer-Funktionalität im Spiel. Es bietet eine schnelle und zuverlässige Übertragung von Daten und ermöglicht es den Spielern, miteinander zu interagieren und zu kommunizieren.
 
