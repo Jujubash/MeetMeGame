@@ -116,36 +116,7 @@ In den Breakout Rooms stehen Video- und Audio-Chat-Optionen zur Verfügung:
 3. **Interaktion mit anderen Teilnehmern**  
    - Beim Näherkommen an andere Avatare ist ein Chat oder Videocall möglich.
    - In Breakout Rooms stehen Audio- und Video-Chat-Optionen zur Verfügung.
-
----
-
-## Hauptfeatures
-
-### Hauptseite
-- **Registrierung/Anmeldung**: Spieler können sich registrieren, einloggen und ihr Passwort ändern.
-- **Informationen über das Spiel**: Die Hauptseite bietet allgemeine Informationen zum Spiel.
-
-### Spielstart
-Nach dem Login betreten die Spieler die Startwelt:
-- Ein vordefinierter Avatar wird geladen, und der Benutzername des Teilnehmers wird angezeigt.
-- Spieler können sich frei im Bereich bewegen und andere Teilnehmer treffen.
-
-### Konferenzräume
-Spieler können verschiedene Konferenzräume betreten, die jeweils thematisch und stilistisch unterschiedliche Umgebungen bieten:
-- **Raumauswahl**: Über Türen kann der Spieler verschiedene Räume betreten (z. B. ein „Iceland“-Setting).
-- **Zusammenführung von Teilnehmern**: Spieler können sich anderen Teilnehmern in den Konferenzräumen anschließen und interagieren.
-
-### Breakout Room
-In den Breakout Rooms stehen Video- und Audio-Chat-Optionen zur Verfügung:
-- **Automatische Aktivierung**: Kamera und Mikrofon werden bei Betreten aktiviert (optional deaktivierbar).
-- **Video-Chat-Funktionalität**: Spieler können live mit anderen Teilnehmern sprechen und sich unterhalten.
-
-### Nachrichten Feature
-- **Live-Chat**: Bei Annäherung an einen anderen Avatar wird ein Chat aktiviert, der über ein Popup gestartet werden kann.
-- **Chat-Funktionen**: Nachrichten werden in Echtzeit versendet und verschwinden, wenn sich die Spieler voneinander entfernen.
-
-### Logout
-- **Ausloggen**: Über eine spezielle Tür auf der Startwelt-Karte können sich Spieler abmelden und zur Login-Seite zurückkehren.
+   - 
 ## Verwendete Technologien
 
 - **Photon Unity Networking (PUN)**  
