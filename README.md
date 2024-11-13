@@ -5,7 +5,6 @@ Ein Projekt im Rahmen des Studiengangs **Hochschule für Wirtschaft und Technik 
 Dokumentation zur **Computergraphik** für das Unity-Spielprojekt **Meet Me Game**
 
 **Dozent:** Thomas Jung  
-**Entwicklerteam:** [Namen des Teams hier einfügen]
 
 ---
 
@@ -42,7 +41,7 @@ Um das Meet Me Game zu installieren und auszuführen, sind die folgenden Schritt
 
 2. **Repository klonen**:
    ```bash
-   git clone https://github.com/[dein-benutzername]/meet-me-game.git
+   git clone https://github.com/Jujubash/meet-me-game.git
    
 3. **Unity-Projekt öffnen**:
 
